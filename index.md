@@ -28,8 +28,8 @@ Complete prototype
 ### Week of 11/3: User testing results and changes
 User testing results and changes
 
-###Week of 11/29: Revised prototype
+### Week of 11/29: Revised prototype
 Revised prototype
 
-###Week of 12/8: Video demo
+### Week of 12/8: Video demo
 Video demo
