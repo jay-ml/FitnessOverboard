@@ -2,7 +2,7 @@
 ![A brown pirate ship with wind billowing in its sails.](../FitnessOverboard/images/PirateShip.png "Run, skip, and jump your ship to victory!")
 ### Team Members: Jay Luther & Maggie Perkoff
 james.luther@colorado.edu
-margart.perkoff@colorado.edu
+margaret.perkoff@colorado.edu
 
 ## Project Description
 *Avast ye landlubbers, grab your mateys and see if you have what it takes to walk, run, and skip your ship to victory.  Fitness Overboard will keep single and multi-person crews engaged in weekly fitness challenges, letting you prevent scurvy while pushing your friends into the briny deep!*
