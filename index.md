@@ -1,5 +1,5 @@
 # FitnessOverboard
-![A brown pirate ship with wind billowing in its sails.](/images/PirateShip.png "Run, skip, and jump your ship to victory!")
+![A brown pirate ship with wind billowing in its sails.](../FitnessOverboard/images/PirateShip.png "Run, skip, and jump your ship to victory!")
 ### Team Members: Jay Luther & Maggie Perkoff
 
 ## Link to Project Proposal PDF ##
