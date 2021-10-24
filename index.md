@@ -19,8 +19,8 @@ Craig M. Hales, Margaret D. Carroll, Cheryl D. Fryar, and Cynthia L. Ogden. 2020
 ### Week of 9/27: Personas and task models
 Personas and task models
 
-### Week of 10/6: Prototypes of key features
-Prototypes of key features
+### October 24: Figma Prototype
+[Figma Prototype Link](https://www.figma.com/file/xuI3Skql4YG0cbTVAvFuiO/UI-Design?node-id=4%3A4)
 
 ### Week of 10/25: Complete prototype
 Complete prototype
